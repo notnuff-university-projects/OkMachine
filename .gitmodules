@@ -1,0 +1,6 @@
+[submodule "lab3"]
+	path = lab3
+	url = git@github.com:notnuff-university-projects/ml-lab3.git
+[submodule "lab2"]
+	path = lab2
+	url = git@github.com:notnuff-university-projects/ml-lab2.git
