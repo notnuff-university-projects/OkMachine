@@ -4,3 +4,12 @@
 [submodule "lab2"]
 	path = lab2
 	url = git@github.com:notnuff-university-projects/ml-lab2.git
+[submodule "lab4"]
+	path = lab4
+	url = git@github.com:notnuff-university-projects/ml-lab4.git
+[submodule "lab5"]
+	path = lab5
+	url = git@github.com:notnuff-university-projects/ml-lab5.git
+[submodule "lab6"]
+	path = lab6
+	url = git@github.com:notnuff-university-projects/ml-lab6.git
